@@ -2,9 +2,9 @@
   "name": "vector-vscode-devpack",
   "displayName": "Vector's VSCode extention pack",
   "description": "Extension Pack created by Bravo68web",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "preview": true,
-  "private": true,
+  "private": false,
   "publisher": "Bravo68web",
   "author": {
     "name": "Bravo68web",
@@ -52,7 +52,7 @@
   },
   "scripts": {
     "build": "vsce package",
-    "publish": "vsce publish"
+    "publish:ext": "vsce publish"
   },
   "devDependencies": {
     "vsce": "^1.77.0"
