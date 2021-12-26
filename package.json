@@ -1,0 +1,70 @@
+{
+  "name": "vector-vscode-devpack",
+  "displayName": "Vector's VSCode extention pack",
+  "description": "Extension Pack created by Bravo68web",
+  "version": "1.0.0",
+  "preview": true,
+  "private": true,
+  "publisher": "Bravo68web",
+  "author": {
+    "name": "Bravo68web",
+    "email": "me@bravo68web.me",
+    "url": "http://bravo68web.me"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "codezombiech.gitignore",
+    "ritwickdey.liveserver",
+    "ms-vsliveshare.vsliveshare",
+    "yzhang.markdown-all-in-one",
+    "mongodb.mongodb-vscode",
+    "esbenp.prettier-vscode",
+    "tabnine.tabnine-vscode",
+    "albert.tabout",
+    "rangav.vscode-thunder-client",
+    "christian-kohler.path-intellisense",
+    "christian-kohler.npm-intellisense",
+    "pflannery.vscode-versionlens",
+    "wakatime.vscode-wakatime",
+    "hookyqr.beautify",
+    "formulahendry.code-runner",
+    "usernamehw.errorlens",
+    "icrawl.discord-vscode",
+    "randomfractalsinc.vscode-data-preview",
+    "VisualStudioExptTeam.vscodeintellicode"
+  ],
+  "keywords": [
+    "node",
+    "nodejs",
+    "javascript",
+    "extension",
+    "extension pack"
+  ],
+  "icon": "icon.png",
+  "galleryBanner": {
+    "color": "#333333",
+    "theme": "dark"
+  },
+  "engines": {
+    "vscode": "^1.0.0"
+  },
+  "scripts": {
+    "build": "vsce package",
+    "publish": "vsce publish"
+  },
+  "devDependencies": {
+    "vsce": "^1.77.0"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BRAVO68WEB/vector-vscode-devpack/issues/new",
+    "email": "me@bravo68web.me"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/BRAVO68WEB/vector-vscode-devpack.git"
+  },
+  "homepage": "https://github.com/BRAVO68WEB/vector-vscode-devpack"
+}
