@@ -9,25 +9,51 @@ Feature Rich VSCode Extension Pack created by Bravo68web
 
 ## Included Extensions
 
-- [path Intellisense][christian-kohler-path-intellisense]
-- [npm Intellisense][christian-kohler-npm-intellisense]
-- [Version Lens][pflannery-vscode-versionlens]
-- [IntelliCode][VisualStudioExptTeam-vscodeintellicode]
-- [Gitignore][codezombiech-gitignore]
-- [Liveserver][ritwickdey-liveserver]
-- [VS Liveshare][ms-vsliveshare-vsliveshare]
-- [Markdown All-in-one][yzhang-markdown-all-in-one]
-- [Mongodb][mongodb-mongodb-vscode]
-- [Prettier][esbenp-prettier-vscode]
-- [Tabnine][tabnine-tabnine-vscode]
-- [Tabout][albert-tabout]
-- [Thunder Client][rangav-vscode-thunder-client]
-- [Wakatime][wakatime-vscode-wakatime]
-- [Beautify][hookyqr-beautify]
-- [Code Runner][formulahendry-code-runner]
-- [Errorlens][usernamehw-errorlens]
-- [Discord RPC][icrawl-discord-vscode]
-- [Data Preview][randomfractalsinc-vscode-data-preview]
+ - "adpyke.codesnap"
+ - "ahmadawais.emoji-log-vscode"
+ - "albert.TabOut"
+ - "bierner.markdown-preview-github-styles"
+ - "Bravo68web.icyicons"
+ - "Bravo68web.propstar"
+ - "christian-kohler.path-intellisense"
+ - "dbaeumer.vscode-eslint"
+ - "eamodio.gitlens"
+ - "esbenp.prettier-vscode"
+ - "GitHub.codespaces"
+ - "GitHub.copilot-nightly"
+ - "GitHub.remotehub"
+ - "github.vscode-github-actions"
+ - "GraphQL.vscode-graphql"
+ - "GraphQL.vscode-graphql-execution"
+ - "golang.go"
+ - "Gruntfuggly.todo-tree"
+ - "herrmannplatz.npm-dependency-links"
+ - "Katsute.settings-repository"
+ - "mightbesimon.emoji-icons"
+ - "mikestead.dotenv"
+ - "ms-vscode-remote.remote-containers"
+ - "ms-vscode-remote.remote-ssh"
+ - "ms-vscode-remote.remote-wsl"
+ - "ms-vscode.remote-repositories"
+ - "naumovs.color-highlight"
+ - "ms-vsliveshare.vsliveshare"
+ - "pflannery.vscode-versionlens"
+ - "Postman.postman-for-vscode"
+ - "RandomFractalsInc.vscode-data-preview"
+ - "redhat.vscode-yaml"
+ - "ritwickdey.LiveServer"
+ - "sankethdev.vscode-proto"
+ - "TabNine.tabnine-vscode"
+ - "tonybaloney.vscode-pets"
+ - "usernamehw.errorlens"
+ - "WakaTime.vscode-wakatime"
+ - "wayou.vscode-todo-highlight"
+ - "yzhang.markdown-all-in-one"
+ - "shakram02.bash-beautify"
+ - "SonarSource.sonarlint-vscode"
+ - "shd101wyy.markdown-preview-enhanced"
+ - "icrawl.discord-vscode"
+ - "wix.vscode-import-cost"
 
 ## Contributing
 
@@ -45,24 +71,3 @@ MIT - see license details [here][license-url]
 [rating-badge]: https://img.shields.io/vscode-marketplace/r/bravo68web.vector-vscode-devpack.svg?style=flat-square
 [ext-url]: https://marketplace.visualstudio.com/items?itemName=bravo68web.vector-vscode-devpack
 [open-issue-url]: https://github.com/bravo68web/vector-vscode-devpack/issues/new/choose
-
-[christian-kohler-path-intellisense]: https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense
-[christian-kohler-npm-intellisense]: https://marketplace.visualstudio.com/items?itemName=christian-kohler.npm-intellisense
-[pflannery-vscode-versionlens]: https://marketplace.visualstudio.com/items?itemName=pflannery.vscode-versionlens
-
-[codezombiech-gitignore]: https://marketplace.visualstudio.com/items?itemName=codezombiech.gitignore
-[ritwickdey-liveserver]: https://marketplace.visualstudio.com/items?itemName=ritwickdey.liveserver
-[ms-vsliveshare-vsliveshare]: https://marketplace.visualstudio.com/items?itemName=ms-vsliveshare.vsliveshare
-[yzhang-markdown-all-in-one]: https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one
-[mongodb-mongodb-vscode]: https://marketplace.visualstudio.com/items?itemName=mongodb.mongodb-vscode
-[esbenp-prettier-vscode]: https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode
-[tabnine-tabnine-vscode]: https://marketplace.visualstudio.com/items?itemName=tabnine.tabnine-vscode
-[albert-tabout]: https://marketplace.visualstudio.com/items?itemName=albert.tabout
-[rangav-vscode-thunder-client]: https://marketplace.visualstudio.com/items?itemName=rangav.vscode-thunder-client
-[wakatime-vscode-wakatime]: https://marketplace.visualstudio.com/items?itemName=wakatime.vscode-wakatime
-[hookyqr-beautify]: https://marketplace.visualstudio.com/items?itemName=HookyQR.beautify
-[formulahendry-code-runner]: https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner
-[usernamehw-errorlens]: https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens
-[icrawl-discord-vscode]: https://marketplace.visualstudio.com/items?itemName=icrawl.discord-vscode
-[randomfractalsinc-vscode-data-preview]: https://marketplace.visualstudio.com/items?itemName=randomfractalsinc.vscode-data-preview
-[VisualStudioExptTeam-vscodeintellicode]: https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode
